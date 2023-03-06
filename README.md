@@ -4,7 +4,7 @@
 
 - [fisher](https://github.com/jorgebucaran/fisher)
 - [asdf](https://github.com/asdf-vm/asdf)
-    - [asdf-zig](https://github.com/cheetah/asdf-zig.git)
+    - [asdf-zig](https://github.com/cheetah/asdf-zig)
 
 ## Install
 
